@@ -3,7 +3,8 @@
 
     <string name="app_name">CourseraAndroid</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">This is baby Harry</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="baby_harry">Baby Harry</string>
 
 </resources>
